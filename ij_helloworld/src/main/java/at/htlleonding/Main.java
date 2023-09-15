@@ -6,7 +6,7 @@ public class Main {
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
-                System.exit(-1);
+                System.exit(1);
             }
         }
 
